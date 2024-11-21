@@ -6,8 +6,6 @@
 
 ![image](https://github.com/user-attachments/assets/51f7a4a0-0705-4278-9b9f-77229c17a17e)
 
-Запустим в них aafire:
-
 ![image](https://github.com/user-attachments/assets/8b0f2964-7e02-45e3-a1aa-ae35ac630bfb)
 
 После этого, создадим общую сеть для 2 контейнеров:
@@ -17,6 +15,8 @@
 Теперь в отдельных терминалах запустим каждый из контейнеров:
 
 ![image](https://github.com/user-attachments/assets/c0ce7f75-3374-4658-81f6-8ffe6faaa572)
+
+Запустим в них aafire:
 
 ![image](https://github.com/user-attachments/assets/0860333b-ce59-4ae4-8b0b-1110587ea4aa)
 
