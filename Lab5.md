@@ -18,11 +18,26 @@
 ![image](https://github.com/user-attachments/assets/b0eea92c-9cb9-4906-935c-3b9e5acfb407)
 
 ## Задание 2
-Для начала установим Git Flow
+Для начала установим и запустим Git Flow
 
-![image](https://github.com/user-attachments/assets/400bec4c-e65e-4fac-8537-a7e1cc95f878)
+![image](https://github.com/user-attachments/assets/19aca0d3-d7eb-4207-80e3-a10d3d34c8d5)
 
 Создадим task_management.py, куда впишем наш код
 
-![image](https://github.com/user-attachments/assets/a7211f53-00b7-4cf6-a6f4-2bed54d91eff)
+![image](https://github.com/user-attachments/assets/c1af120d-cad3-4d1f-a16c-9cc1d08e9026)
 
+Теперь добавим его в коммит
+
+![image](https://github.com/user-attachments/assets/e9e8ab5b-7a6a-45a4-86d1-08c1a197ac55)
+
+После "завершения" разработки, объединим его с основной веткой
+
+![image](https://github.com/user-attachments/assets/3d6f362b-07bc-44ae-b674-ba43c5bce0d0)
+
+Затем выпустим hotfix
+
+![image](https://github.com/user-attachments/assets/379d2edc-ddbe-4cf4-965e-7773ddc62e93)
+
+А после объединим ветки
+
+![image](https://github.com/user-attachments/assets/0108c71c-f6b1-400b-a7da-81a63bd8f77e)
